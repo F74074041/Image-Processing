@@ -2,7 +2,7 @@
 ## 使用軟體
 Visual Studio 2015、OpenCV 3.3.1
 ## 程式功能
-- #### 下載圖片以及分離BGR channels、grayscale、$I2 = \dfrac{R+G+B}{3}$、Blend
+- #### 下載圖片以及分離BGR channels、grayscale、Blend
 > #### 分離BGR
 > ![](https://i.imgur.com/eVKksJ1.png)
 > #### grayscale
